@@ -2,4 +2,15 @@
 
 /* Body */
 
+.start {
+  text-align: center;
+}
+.during {
+  text-align: left;
+}
+
+.margin5 {
+  margin: 5px;
+}
+
 /* Footer */
