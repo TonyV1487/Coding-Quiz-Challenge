@@ -1,6 +1,6 @@
-# HW4
+# Coding Quiz Challenge
 
-Boot Camp Homework Assignment 4
+A quiz of coding related questions.
 
 I was able to get to the point of:
 
